@@ -26,7 +26,7 @@ Hallooo! I'm **Karl**, A Pull Stack Developer. I just pull things off the intern
 # ❀ Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge)](https://www.facebook.com/karl.andoque)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/karl-andoque-hannya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karl-andoque-hannya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231877F2.svg?style=for-the-badge)](https://portfolio-hannya.vercel.app/) 
 
 
