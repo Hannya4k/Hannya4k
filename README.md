@@ -20,8 +20,6 @@ Hallooo! I'm **Karl**, A Pull Stack Developer. I just pull things off the intern
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title="Dbeaver" alt="Dbeaver" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/331760/burp-suite.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353884/nmap.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
 </div>
 
 # ❀ Socials
